@@ -71,19 +71,21 @@ This chart highlights the primary business bottleneck: a massive concentration o
 
 ---
 
-## ⏱️ How to Review This Project
-1. **Executive Summary:** Open and review `eniac_magist_presentation.pdf` directly in the browser to see the strategic slides prepared for the Head of Eniac.
-2. **SQL Infrastructure:** Review the source queries folder (if applicable) to see the exact joins, aggregations, and performance filters utilized to pull these metrics.
+## 🚀 How to Use This Project
+
+1. **Executive Summary & Insights:** Review the final strategic presentation in `magist x.pdf` to see the high-level recommendations first.
+2. **Database & Queries:** Open the main SQL script (e.g., `magist_queries.sql` or your specific filename) to inspect the data extraction, filtering, and aggregation logic used for the analysis.
+3. **Visualizations:** The interactive dashboards can be viewed directly via the uploaded dashboard screenshots in the `/images` folder.
+4. **Environment & Tools:** To reproduce the database results, import the Magist dataset into your local **MySQL Workbench** environment and execute the provided SQL scripts.
 
 ---
 
 ## 🔮 Future Work
-* **Predictive Delay Modeling:** Build a machine learning classification model to predict which customer zip codes are most prone to shipping delays.
-* **Basket Analysis:** Perform market basket analysis to see which lower-priced items are frequently bought together to see if Eniac accessories can be bundled.
-
+* **Next Project - Eniac's Discount Strategy:** The next phase of the analysis involves transitioning to internal company data using Python to resolve a major strategic debate between the Marketing Team and the Board of Investors on whether product discounting is genuinely beneficial for long-term revenue growth.
+* **Upcoming Phase - Eniac's Homepage A/B Testing:** A subsequent study will focus on experimental design and hypothesis testing by launching an A/B test for Eniac's homepage banner, optimizing the "SHOP NOW" button's visual features and copy to improve the current 2% click-through rate (CTR) and drive higher user conversion.
 ---
 
 ## ✉️ Contact
 * **Name:** Şafak Koçlu
-* **Email:** safak.koclu@example.com *(E-posta adresini güncelleyebilirsin)*
+* **Email:** safakkoclu@hotmail.com 
 * **LinkedIn:** [linkedin.com/in/safakkoclu](https://linkedin.com) *(Kendi LinkedIn linkini koyabilirsin)*
