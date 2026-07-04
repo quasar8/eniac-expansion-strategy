@@ -57,16 +57,17 @@ Eniac’s board demanded expansion within a year, but internal stakeholders rais
 ## 📈 Key Visualizations
 
 ### 1. Product Category Trends
-![Tech Product Sales Trends](images/tech_trends.png)  
-*This visualization demonstrates Magist's reliable overall order growth across key tech categories (telephony, electronics, computers_accessories) since January 2017, maintaining a stable 51% YoY growth and a 4.1/5 average rating.*
+<img src="images/magist1.png" alt=" Product Category Trends" width="600"/>
+
+This visualization demonstrates Magist's reliable overall order growth across key tech categories (telephony, electronics, computers_accessories) since September 2016, maintaining a stable 51% YoY growth and a 4.1/5 average rating.
 
 ### 2. Tech Product Price Distribution
-![Tech Product Popularity by Price Range](images/price_distribution.png)  
-*This chart highlights the primary business bottleneck: a massive concentration of sales lies below the €500 threshold (31,466 units), proving a lack of existing traction for high-end premium products.*
+<img src="images/magist2.png" alt="Tech Product Price Distribution" width="600"/> 
+This chart highlights the primary business bottleneck: a massive concentration of sales lies below the €500 threshold (31,466 units), proving a lack of existing traction for high-end premium products.
 
 ### 3. Delivery Performance Breakdown
-![Delivery On-Time Status](images/delivery_performance.png)  
-*A breakdown confirming that while 93% of orders are delivered safely on time, critical logistics delays are concentrated in specific volatile territories.*
+<img src="images/magist3.png" alt="Delivery Performance Breakdown" width="600"/> 
+  A breakdown confirming that while 93% of orders are delivered safely on time, critical logistics delays are concentrated in specific volatile territories.
 
 ---
 
