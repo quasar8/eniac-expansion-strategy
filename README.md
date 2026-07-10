@@ -50,9 +50,14 @@ Eniac’s board demanded expansion within a year, but internal stakeholders rais
 ---
 
 ## 📁 Repository Structure
-* `eniac_magist_presentation.pdf`: The finalized corporate presentation delivered to executive leadership summarizing methodology, code insights, and strategic outcomes.
+```
+eniac-expansion-strategy/
+|-- images
+|-- README.md
+|-- magist_query.sql
+|-- eniac_magist_presentation.pdf
 
----
+```
 
 ## 📈 Key Visualizations
 
