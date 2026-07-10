@@ -78,10 +78,9 @@ This chart highlights the primary business bottleneck: a massive concentration o
 
 ## 🚀 How to Use This Project
 
-1. **Executive Summary & Insights:** Review the final strategic presentation in `magist x.pdf` to see the high-level recommendations first.
-2. **Database & Queries:** Open the main SQL script (e.g., `magist_queries.sql` or your specific filename) to inspect the data extraction, filtering, and aggregation logic used for the analysis.
-3. **Visualizations:** The interactive dashboards can be viewed directly via the uploaded dashboard screenshots in the `/images` folder.
-4. **Environment & Tools:** To reproduce the database results, import the Magist dataset into your local **MySQL Workbench** environment and execute the provided SQL scripts.
+1. **Executive Summary & Insights:** Review the final strategic presentation in `eniac_magist_presentation.pdf` to see the high-level recommendations first.
+2. **Database & Queries:** Ask to WBS Coding school for "Magist" dataset to get it and open `magist_query.sql` to inspect the data extraction, filtering, and aggregation logic used for the analysis.
+3. **Environment & Tools:**  MySQL Workbench, Tableau Public
 
 ---
 
@@ -92,5 +91,5 @@ This chart highlights the primary business bottleneck: a massive concentration o
 
 ## ✉️ Contact
 * **Name:** Şafak Koçlu
-* **Email:** safakkoclu@hotmail.com 
-* **LinkedIn:** [linkedin.com/in/safakkoclu](https://linkedin.com) *(Kendi LinkedIn linkini koyabilirsin)*
+* **Email:** koclusafak@gmail.com 
+* **LinkedIn:** [https://www.linkedin.com/in/safak-koclu/](https://linkedin.com) 
