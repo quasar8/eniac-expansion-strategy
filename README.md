@@ -89,7 +89,8 @@ This chart highlights the primary business bottleneck: a massive concentration o
 * **Upcoming Phase - Eniac's Homepage A/B Testing:** A subsequent study will focus on experimental design and hypothesis testing by launching an A/B test for Eniac's homepage banner, optimizing the "SHOP NOW" button's visual features and copy to improve the current 2% click-through rate (CTR) and drive higher user conversion.
 ---
 
-## ✉️ Contact
-* **Name:** Şafak Koçlu
-* **Email:** koclusafak@gmail.com 
-* **LinkedIn:** [https://www.linkedin.com/in/safak-koclu/](https://linkedin.com) 
+## 📧 Contact
+- Name : Safak Koclu
+- Email: koclusafak@gmail.com
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/safak-koclu/)
+- GitHub: [My GitHub Profile](https://github.com/quasar8)
