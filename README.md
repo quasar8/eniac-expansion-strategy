@@ -52,10 +52,23 @@ Eniac’s board demanded expansion within a year, but internal stakeholders rais
 ## 📁 Repository Structure
 ```
 eniac-expansion-strategy/
-|-- images
-|-- README.md
-|-- magist_query.sql
-|-- eniac_magist_presentation.pdf
+├── README.md                          # This file
+├── eniac_magist_presentation.pdf      # Final presentation slides
+├── magist_query.sql                   # SQL queries used for the analysis
+├── data/
+│   ├── customers.csv                 
+│   ├── geo.csv                        
+│   ├── order_items.csv                
+│   ├── order_payments.csv             
+│   ├── order_reviews.csv              
+│   ├── orders.csv                     
+│   ├── product_category_name.csv      
+│   ├── products.csv                   
+│   └── sellers.csv                    
+└── images/
+    ├── magist1.png                     # Product Category Trends
+    ├── magist2.png                     # Tech Product Price Distribution
+    └── magist3.png                     # Delivery Performance Breakdown
 
 ```
 
