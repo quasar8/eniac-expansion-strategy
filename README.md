@@ -13,7 +13,7 @@ Eniac’s board demanded expansion within a year, but internal stakeholders rais
 ---
 
 ## 📊 Dataset & Sources
-* **Source:** Magist E-Commerce Database Snapshot (WBS Coding School Internal Data)
+* **Source:** Magist E-Commerce Database Snapshot. CSV files here : [customers.csv](data/customers.csv), [geo.csv](data/geo.csv), [order_items.csv](data/order_items.csv), [order_payments.csv](data/order_payments.csv), [order_reviews.csv](data/order_reviews.csv), [orders.csv](data/orders.csv), [product_category_name.csv](data/product_category_name.csv), [products.csv](data/products.csv), [sellers.csv](data/sellers.csv)
 * **Size:** 99,441 orders, 48 features across 9 relational tables
 * **Time Period:** September 2016 - October 2018 (2 years 1 month)
 * **Key Features Explored:** Customer demographics and location, product categories and specifications, Order lifecycle and delivery dates, seller information, payment methods and transaction values, customer review scores, geographic data (city, state, coordinates)
