@@ -79,7 +79,7 @@ This chart highlights the primary business bottleneck: a massive concentration o
 ## 🚀 How to Use This Project
 
 1. **Executive Summary & Insights:** Review the final strategic presentation in `eniac_magist_presentation.pdf` to see the high-level recommendations first.
-2. **Database & Queries:** Ask to WBS Coding school for "Magist" dataset to get it and open `magist_query.sql` to inspect the data extraction, filtering, and aggregation logic used for the analysis.
+2. **Database & Queries:** Get "Magist" .csv files dataset up and open `magist_query.sql` to inspect the data extraction, filtering, and aggregation logic used for the analysis.
 3. **Environment & Tools:**  MySQL Workbench, Tableau Public
 
 ---
